@@ -1,5 +1,8 @@
 # evento
 
+Practice app for vuejs, and firebase implementation.
+using webpack and babel for production  deployment.
+
 ## Project setup
 ```
 npm install
